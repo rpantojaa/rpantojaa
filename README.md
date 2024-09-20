@@ -3,6 +3,12 @@
 - 🔭 Hoje eu estou trabalhando com Front-End
 - 🌱 Estudando JavaScript
 
+<div>
+  <a href="https://github.com/rpantojaa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rpantojaa&show_icons=true&theme=dark&include_açç_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpantojaa&layout=compact&langs_count-16&theme=dark"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="RPantoja-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RPantoja-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
