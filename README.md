@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/rpantojaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rpantojaa&show_icons=true&theme=dark&include_açç_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpantojaa&layout=compact&langs_count-16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpantojaa&layout=compact&langs_count-16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -29,6 +29,3 @@
   <a href="https://www.linkedin.com/in/renanaspantoja/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-##
-
-![Snake animation](https://github.com/rpantojaa/rpantojaa/blob/output/github-contribution-grid-snake.svg)
