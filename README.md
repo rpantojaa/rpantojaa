@@ -31,4 +31,4 @@
 
 ##
 
-![Snake animation](https://github.com/rpantojaa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rpantojaa/rpantojaa/blob/output/github-contribution-grid-snake.svg)
